@@ -57,7 +57,7 @@
     justify-content: space-around;
 }
 .container{
-    height: 500px;
+    height: 800px;
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -66,7 +66,7 @@
     border: 2px solid black;
 }
 .container-1{
-    height: 500px;
+    height: 800px;
     width: 50%;
     display: block;
     height: 500px;
@@ -75,11 +75,105 @@
     background-color: blue;
 }
 .container-2{
-    height: 500px;
+    height: 800px;
     width: 50%;
     display: flex;
     height: 500px;
     width: 50%;
     border: 2px solid rgb(223, 12, 12);
     background-image: url(https://effulgent-crostata-cae86a.netlify.app/img/carousel-1.jpg);
+}
+.about{
+    height: 500px;
+    width: 100%;
+    border: 2px solid green;
+    display: flex;
+}
+.about-1{
+    height: 500px;
+    width: 50%;
+    border: 2px dotted yellow;
+}
+.about-2{
+    height: 500px;
+    width: 50%;
+    border: 2px dotted yellow;
+}
+.services{
+    height: 600px;
+    width: 100%;
+    border: 2px solid fuchsia;
+}
+.sub-service{
+    height: 500px;
+    width: 90%;
+    border: 2px solid silver;
+    display: flex;
+}
+.service-1{
+    height: 200px;
+    width: 30%;
+    border: 1px solid brown;
+}
+.service-2{
+    height: 200px;
+    width: 30%;
+    border: 1px solid brown;
+}
+.service-3{
+    height: 200px;
+    width: 30%;
+    border: 1px solid brown;
+}
+.service-4{
+    height: 200px;
+    width: 30%;
+    border: 1px solid brown;
+}
+.service-5{
+    height: 200px;
+    width: 30%;
+    border: 1px solid brown;
+}
+.service-6{
+    height: 200px;
+    width: 30%;
+    border: 1px solid brown;
+}
+.why{
+    height: 500px;
+    width: 100%;
+    border: 2px dotted violet;
+    display: flex;
+}
+.why-1{
+    height: 500px;
+    width: 50%;   
+    border: 3px solid royalblue;
+}
+.why-2{
+    height: 500px;
+    width: 50%;
+    border: 3px solid rgb(21, 33, 69);
+}
+.doctors{
+    height: 500px;
+    width: 100%;
+    border: 2px solid rgb(110, 89, 48);
+}
+.appointment{
+    height: 600px;
+    width: 100%;
+    border: 2px solid burlywood;
+    display: flex;
+}
+.appointment-1{
+    height: 600px;
+    width: 50%;
+    border: 1px dotted red;
+}
+.appointment-2{
+    height: 600px;
+    width: 50%;
+    border: 1px dotted red;
 }

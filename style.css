@@ -109,6 +109,7 @@
     width: 90%;
     border: 2px solid silver;
     display: flex;
+    justify-content: space-around;
 }
 .service-1{
     height: 200px;
@@ -145,6 +146,7 @@
     width: 100%;
     border: 2px dotted violet;
     display: flex;
+    justify-content: space-between;
 }
 .why-1{
     height: 500px;
@@ -160,12 +162,14 @@
     height: 500px;
     width: 100%;
     border: 2px solid rgb(110, 89, 48);
+    justify-content: space-around;
 }
 .appointment{
     height: 600px;
     width: 100%;
     border: 2px solid burlywood;
     display: flex;
+    justify-content: space-between;
 }
 .appointment-1{
     height: 600px;

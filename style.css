@@ -151,18 +151,47 @@
 .why-1{
     height: 500px;
     width: 50%;   
-    border: 3px solid royalblue;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: blue;
 }
 .why-2{
     height: 500px;
     width: 50%;
     border: 3px solid rgb(21, 33, 69);
+    background-image: url(https://effulgent-crostata-cae86a.netlify.app/img/feature.jpg);
 }
 .doctors{
     height: 500px;
     width: 100%;
     border: 2px solid rgb(110, 89, 48);
-    justify-content: space-around;
+    align-items:center;
+}
+.sub-doctor{
+    height: 400px;
+    width: 90%;
+    border: 2px dotted darkmagenta;
+    display: flex;
+    align-items: center;
+}
+.doctor-1{
+    height: 350px;
+    width: 20%;
+    border: 2px solid darkred;
+}
+.doctor-2{
+    height: 350px;
+    width: 20%;
+    border: 2px solid darkred;
+}
+.doctor-3{
+    height: 350px;
+    width: 20%;
+    border: 2px solid darkred;
+}
+.doctor-4{
+    height: 350px;
+    width: 20%;
+    border: 2px solid darkred;
 }
 .appointment{
     height: 600px;
